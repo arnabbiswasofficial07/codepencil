@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/codepencil/static/css/main.3096c5af.chunk.css",
+    "main.js": "/codepencil/static/js/main.6d4a71a1.chunk.js",
+    "main.js.map": "/codepencil/static/js/main.6d4a71a1.chunk.js.map",
+    "runtime-main.js": "/codepencil/static/js/runtime-main.21be4a0f.js",
+    "runtime-main.js.map": "/codepencil/static/js/runtime-main.21be4a0f.js.map",
+    "static/css/2.3ceb25c6.chunk.css": "/codepencil/static/css/2.3ceb25c6.chunk.css",
+    "static/js/2.6aff765a.chunk.js": "/codepencil/static/js/2.6aff765a.chunk.js",
+    "static/js/2.6aff765a.chunk.js.map": "/codepencil/static/js/2.6aff765a.chunk.js.map",
+    "index.html": "/codepencil/index.html",
+    "static/css/2.3ceb25c6.chunk.css.map": "/codepencil/static/css/2.3ceb25c6.chunk.css.map",
+    "static/css/main.3096c5af.chunk.css.map": "/codepencil/static/css/main.3096c5af.chunk.css.map",
+    "static/js/2.6aff765a.chunk.js.LICENSE.txt": "/codepencil/static/js/2.6aff765a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21be4a0f.js",
+    "static/css/2.3ceb25c6.chunk.css",
+    "static/js/2.6aff765a.chunk.js",
+    "static/css/main.3096c5af.chunk.css",
+    "static/js/main.6d4a71a1.chunk.js"
+  ]
+}
